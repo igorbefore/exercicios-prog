@@ -1,4 +1,4 @@
-# exercicios-prog
+# Exercícios de programação
 
 E ai Herickson, tudo bem?
 Seguindo aquela ajuda que vc pediu, criamos uma série de exercicios para vc ir testando e praticando, ela será de forma incremental e conforme vc for desenvolvendo nós iremos criando dificuldades no código.
