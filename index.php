@@ -11,12 +11,11 @@ $carros[] = new Carro(1,'GM','Gol 1.0','HGG-5014','Prata');
 $carros[] = new Carro(2,'BMW','Série X3','AAA-3097','Vermelha');
 $carros[] = new Carro(3,'Chevrolet','Celta 1.0','BAS-3512','Preta');
 
-
 $carro = new Carro();
 $carro->setId(4);
 $carro->setFabricante('Fiat');
 $carro->setModelo('Palio');
-$carro->setPlaca('HRE-1988');
+$carro->setPlaca('HRE-1987');
 $carro->setCor('Branco');
 $carros[] = $carro;
 

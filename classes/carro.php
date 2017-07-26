@@ -67,6 +67,5 @@ class Carro {
     {
         return $this->cor;
     }
-
 }
 ?>
